@@ -55,3 +55,12 @@ I worked with Azure virtual machines and scale-set rules. During testing, CPU us
 ---
 
 These descriptions summarize coursework and lab reports; they do not represent professional employment. Original course submissions and screenshots are not included in this repository.
+
+
+## Detailed project records
+
+- [Aruba network configuration](01-aruba-network.md)
+- [Active Directory users and groups](02-active-directory.md)
+- [PowerShell user administration](03-powershell-user-administration.md)
+- [pfSense connectivity investigation](04-pfsense-connectivity.md)
+- [Azure virtual machines and scaling](05-azure-vm-scaling.md)
