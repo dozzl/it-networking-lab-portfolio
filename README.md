@@ -1,66 +1,30 @@
 # IT Support and Networking Lab Portfolio
 
-A collection of academic labs in Windows administration, networking and cloud infrastructure. These projects were completed in learning environments and document practical exercises, troubleshooting and lessons learned.
+Selected academic work in Windows administration, networking and cloud infrastructure. The original project documents below include screenshots from the exercises.
 
-## 1. Aruba Network Configuration
+## 1. Aruba Network Configuration — group project
+A CSP450 team project involving Aruba switches, VLANs, DHCP, routing and network connectivity testing. The report documents the group’s work.
 
-**Focus:** VLANs, DHCP, switching and network connectivity  
-**Tools:** Aruba 6300 and 2530 switches, virtual machines and Wireshark  
-**Context:** CSP450 group project
-
-Our group documented a network with separate VLANs, switch-based DHCP and inter-VLAN connectivity. The project reports describe connecting clients, configuring network settings and checking connectivity. A later phase expanded the topology to multiple switches and covered DHCP relay, OSPF and link aggregation.
-
-**What this demonstrates:** how switching, addressing and routing fit together in a segmented network, and how to document a topology and connectivity checks. The reports describe team work; individual responsibilities varied.
+[View the group report and screenshots (PDF)](Aruba%20Network%20Group%20Project.pdf) · [Read the project explanation](01-aruba-network.md)
 
 ## 2. Active Directory: Users and Groups
+A Windows Server lab on organizing users and security groups within Active Directory organizational units.
 
-**Focus:** Windows user administration and access organization  
-**Tools:** Windows Server, Active Directory and PowerShell  
-**Context:** Academic lab
-
-This lab explored organizing users and groups in Active Directory organizational units. The submission includes an example of moving groups to keep their placement consistent and records commands and questions related to group organization.
-
-**What this demonstrates:** familiarity with the structure used to organize identities and groups in a Windows environment. Lab instructions and screenshot-based results form part of the original submission.
+[View the lab and screenshots (PDF)](Active%20Directory%20Users%20and%20Groups.pdf) · [Read the project explanation](02-active-directory.md)
 
 ## 3. PowerShell User Administration
+An academic exercise using PowerShell control flow and supplied scripts for domain user account administration.
 
-**Focus:** PowerShell fundamentals and account administration  
-**Tools:** PowerShell and Windows Server  
-**Context:** Academic lab
-
-This exercise explored conditional statements, variables and scripts used for managing multiple domain user accounts. It included running and adjusting scripts and observing how they handled different inputs.
-
-**What this demonstrates:** practical exposure to scripting concepts and repeatable administration tasks in a lab.
+[View the lab and screenshots (PDF)](PowerShell%20User%20Administration.pdf) · [Read the project explanation](03-powershell-user-administration.md)
 
 ## 4. pfSense Virtual Router Troubleshooting
+A virtual networking lab investigating connectivity and identifying a host-only adapter setting.
 
-**Focus:** connectivity diagnosis in a virtual network  
-**Tools:** pfSense and virtual machines  
-**Context:** Academic lab
-
-In a virtual-router exercise, one machine could ping while another could not. I investigated the network setup and identified that a virtual network adapter was set to host-only.
-
-**What this demonstrates:** checking the virtual network configuration when systems cannot communicate, and relating adapter settings to connectivity symptoms.
+[View the original lab and screenshots (Word document)](pfSense%20Virtual%20Router.docx) · [Read the project explanation](04-pfsense-connectivity.md)
 
 ## 5. Azure Virtual Machines and Scaling
+An Azure lab involving virtual machines and scale-set testing, including a troubleshooting adjustment to the lab test threshold.
 
-**Focus:** cloud virtual machines and scale-set testing  
-**Tools:** Microsoft Azure Virtual Machines and Virtual Machine Scale Sets  
-**Context:** Academic lab
+[View the lab and screenshots (PDF)](Azure%20Virtual%20Machines%20and%20Scaling.pdf) · [Read the project explanation](05-azure-vm-scaling.md)
 
-I worked with Azure virtual machines and scale-set rules. During testing, CPU usage did not reach the original threshold, so I adjusted the test rule to trigger the scaling scenario and observe its behaviour.
-
-**What this demonstrates:** working through a cloud configuration test, diagnosing why a trigger did not fire and adjusting a lab scenario. The threshold was for testing, not a production recommendation.
-
----
-
-These descriptions summarize coursework and lab reports; they do not represent professional employment. Original course submissions and screenshots are not included in this repository.
-
-
-## Detailed project records
-
-- [Aruba network configuration](01-aruba-network.md)
-- [Active Directory users and groups](02-active-directory.md)
-- [PowerShell user administration](03-powershell-user-administration.md)
-- [pfSense connectivity investigation](04-pfsense-connectivity.md)
-- [Azure virtual machines and scaling](05-azure-vm-scaling.md)
+These are academic labs; the Aruba report is group work. The individual project explanations describe the scope and any limitations.
