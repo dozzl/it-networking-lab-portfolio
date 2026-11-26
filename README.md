@@ -27,4 +27,39 @@ An Azure lab involving virtual machines and scale-set testing, including a troub
 
 [View the lab and screenshots (PDF)](Azure%20Virtual%20Machines%20and%20Scaling.pdf) · [Read the project explanation](05-azure-vm-scaling.md)
 
-These are academic labs; the Aruba report is group work. The individual project explanations describe the scope and any limitations.
+## 6. Azure Backup and Disaster Recovery
+An Azure lab exploring virtual machine backups, a Recovery Services vault and replication troubleshooting.
+
+[View the lab and screenshots (PDF)](Azure%20Backup%20and%20Disaster%20Recovery.pdf) · [Read the project explanation](06-azure-backup.md)
+
+## 7. OpenVPN and Certificates
+An assignment exploring OpenVPN, certificates and HTTPS configuration.
+
+[View the original lab and screenshots (Word document)](OpenVPN%20and%20Certificates.docx) · [Read the project explanation](07-openvpn-certificates.md)
+
+## 8. Kubernetes Administration — group project
+A group project covering Kubernetes administration, snapshots and troubleshooting.
+
+[View the group report and screenshots (PDF)](Kubernetes%20Administration%20Group%20Project.pdf) · [Read the project explanation](08-kubernetes-administration.md)
+
+## 9. Azure Load Balancing
+An Azure lab exploring load balancing, health probes and Application Gateway path-based routing.
+
+[View the lab and screenshots (PDF)](Azure%20Load%20Balancing.pdf) · [Read the project explanation](09-azure-load-balancing.md)
+
+## 10. Linux Firewall Exploration
+Coursework exploring Linux Netfilter packet filtering and network traffic tests.
+
+[View the lab and screenshots (PDF)](Linux%20Firewall%20Exploration.pdf) · [Read the project explanation](10-linux-firewall.md)
+
+## 11. Ansible Administration
+A lab exploring Ansible administration from a controller connected to two clients over SSH.
+
+[View the original lab and screenshots (Word document)](Ansible%20Administration.docx) · [Read the project explanation](11-ansible-administration.md)
+
+## 12. AWS Troubleshooting
+An investigation of AWS connectivity, including an SSH security group rule and other troubleshooting.
+
+[View the lab and screenshots (PDF)](AWS%20Troubleshooting.pdf) · [Read the project explanation](12-aws-troubleshooting.md)
+
+These are academic labs; the Aruba and Kubernetes reports are group work. The individual project explanations describe the scope and any limitations.
